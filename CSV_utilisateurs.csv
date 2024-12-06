@@ -1,0 +1,4 @@
+name,password,email,,role
+utilisateur,utilisateurMDP,utilisateur@gmail.com,utilisateur
+root,rootMDP,admin@gmail.com,administrateur
+florent,florentMDP,florent@gmail.com,Mindmaster
